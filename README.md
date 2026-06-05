@@ -1,8 +1,26 @@
 # StudyBud
+# StudyBuddy
 
-StudyBud is a Django-based web application where users can create and join study rooms on various topics, engage in discussions, and collaborate with other learners. 
+A Django-based discussion platform where users can create study rooms, join conversations, discuss topics, and collaborate with other learners.
 
-This project was built as part of a comprehensive 7-hour video tutorial: [Watch the full tutorial here](https://youtu.be/PtQiiknWUcI?si=DK6uyA5ZnU1oR8v4)
+## Features
+- User Authentication
+- Create Study Rooms
+- Join Rooms
+- Topic Discussions
+- User Profiles
+- Search Functionality
+
+## Tech Stack
+- Python
+- Django
+- SQLite
+- HTML
+- CSS
+- JavaScript
+
+
+
 
 ## Screenshots
 
@@ -14,14 +32,14 @@ This project was built as part of a comprehensive 7-hour video tutorial: [Watch 
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+-  
 </td>
 </table>
 
