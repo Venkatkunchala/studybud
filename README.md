@@ -32,6 +32,7 @@ A Django-based discussion platform where users can create study rooms, join conv
 <p align="center">
   Feed Home
 </p>
+<img src="https://github.com/Venkatkunchala/studybud/blob/main/static/images/Screenshot%202026-06-05%20113143.png">
 
 </td> 
 
