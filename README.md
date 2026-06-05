@@ -34,13 +34,7 @@ A Django-based discussion platform where users can create study rooms, join conv
 </p>
 
 </td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
--  
-</td>
+
 </table>
 
 ## Setup Instructions
